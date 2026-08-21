@@ -1,0 +1,123 @@
+import { f as m } from "chunk-RHLSOZ2K.mjs";
+import { D as c } from "chunk-BNJBFYWR.mjs";
+import { zo as I } from "chunk-QIEZ7GMD.mjs";
+import { f as l } from "chunk-LA34HORX.mjs";
+import { k as p } from "chunk-FCG35XJJ.mjs";
+import { b as i } from "chunk-4JY5UMT2.mjs";
+var y = class {
+  constructor(t) {
+    this.environment = t;
+  }
+  environment;
+  dataByRenderId = new Map();
+  itemIdsByRenderId = new Map();
+  updatedDataByNodeId = new Map();
+  updatedItemIdsByRenderId = new Map();
+  set(t, e, a) {
+    if (
+      (i(this.environment === "sandbox", "Setting data is only allowed in the sandbox."),
+      (e ??= p()),
+      this.dataByRenderId.get(t) === e)
+    )
+      return;
+    if ((this.dataByRenderId.set(t, e), c(t))) {
+      let u = f(e, a);
+      this.updatedDataByNodeId.set(t, u);
+    }
+    let n = e.map(m),
+      o = this.itemIdsByRenderId.get(t);
+    I(n, o) || (this.itemIdsByRenderId.set(t, n), this.updatedItemIdsByRenderId.set(t, n));
+  }
+  import(t) {
+    i(this.environment === "editor", "Importing data is only allowed in the editor.");
+    let { dataUpdates: e, itemIdsUpdates: a } = t,
+      r = new Set();
+    for (let { nodeId: n, data: o } of e) (this.dataByRenderId.set(n, o), r.add(n));
+    for (let { renderId: n, itemIds: o } of a) (this.itemIdsByRenderId.set(n, o), r.add(n));
+    return r;
+  }
+  isEmpty(t) {
+    let e = this.dataByRenderId.get(t);
+    return !e || e.length === 0;
+  }
+  getData(t) {
+    return this.dataByRenderId.get(t);
+  }
+  getItemIds(t) {
+    return this.itemIdsByRenderId.get(t);
+  }
+  export() {
+    if (
+      (i(
+        this.environment === "sandbox",
+        "No need to collect and send updates from within the editor."
+      ),
+      this.updatedDataByNodeId.size === 0 && this.updatedItemIdsByRenderId.size === 0)
+    )
+      return;
+    let t = [];
+    for (let [a, r] of this.updatedDataByNodeId) t.push({ nodeId: a, data: r });
+    this.updatedDataByNodeId.clear();
+    let e = [];
+    for (let [a, r] of this.updatedItemIdsByRenderId) e.push({ renderId: a, itemIds: r });
+    return (this.updatedItemIdsByRenderId.clear(), { dataUpdates: t, itemIdsUpdates: e });
+  }
+};
+function f(d, t) {
+  return d.map((e) => {
+    let a = {};
+    for (let r in e) {
+      let n = t.get(r);
+      if (n)
+        switch (n.type) {
+          case "vectorsetitem":
+            a[r] = void 0;
+            continue;
+          case "richtext":
+            a[r] = s(e[r]);
+            continue;
+          case "array":
+            a[r] = R(e[r], n);
+            continue;
+          case "object":
+            throw Error("Not currently handled in removeNonSerializableData");
+          case "slot":
+            throw Error("Should never be part of repeater data");
+          default:
+            a[r] = e[r];
+        }
+    }
+    return a;
+  });
+}
+function R(d, t) {
+  if (!Array.isArray(d)) return d;
+  let e = t.control;
+  return e.type === "richtext"
+    ? d.map(s)
+    : e.type !== "object" || !h(e)
+      ? d
+      : d.map((a) => {
+          if (!l(a)) return a;
+          let r;
+          for (let n in e.controls) {
+            let o = e.controls[n];
+            o?.type === "richtext"
+              ? ((r ??= { ...a }), (r[n] = s(a[n])))
+              : o?.type === "vectorsetitem" && ((r ??= { ...a }), (r[n] = void 0));
+          }
+          return r ?? a;
+        });
+}
+function h(d) {
+  for (let t in d.controls) {
+    let e = d.controls[t]?.type;
+    if (e === "richtext" || e === "vectorsetitem") return !0;
+  }
+  return !1;
+}
+function s(d) {
+  return d ? "<p>Content</p>" : null;
+}
+export { y as a };
+//# sourceMappingURL=chunk-UZIDHC5X.mjs.map

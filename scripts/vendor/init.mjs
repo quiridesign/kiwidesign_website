@@ -325,7 +325,7 @@ function ue({ framerSiteId: e, features: t, iframeRef: o, className: i }) {
 }
 var S;
 function ce({ shouldLoad: e, ...t }) {
-  e && (S ??= import("EditButton-654HQOB3.mjs"));
+  e && (S ??= import("EditButton-JJ2CB6S5.mjs"));
   let [o, i] = c(null);
   return (
     u(() => {
@@ -391,4 +391,4 @@ function je() {
       : A(le);
 }
 export { je as createEditorBar };
-//# sourceMappingURL=https://app.framerstatic.com/editorbar-initializer.CGC4C646.mjs.map
+//# sourceMappingURL=https://app.framerstatic.com/editorbar-initializer.JAJMMT5O.mjs.map

@@ -1,0 +1,1846 @@
+import { a as D } from "chunk-RYFZSDD3.mjs";
+import {
+  a as At,
+  b as zt,
+  c as Qt,
+  d as Gt,
+  e as qt,
+  f as jt,
+  g as Zt,
+  h as Kt,
+} from "chunk-TYITNN5N.mjs";
+import { a as Ht, h as Bt } from "chunk-FKDPG5OK.mjs";
+import { a as Wt } from "chunk-M2KZB3CY.mjs";
+import "chunk-4UPUMYFX.mjs";
+import {
+  A as kt,
+  a as gt,
+  b as bt,
+  c as yt,
+  e as Ne,
+  f as Mt,
+  g as Nt,
+  i as Lt,
+  p as Le,
+  q as xt,
+  r as St,
+  s as Tt,
+  t as xe,
+  u as Vt,
+  v as Ft,
+  w as Ot,
+  x as Et,
+  y as Dt,
+  z as wt,
+} from "chunk-3O77B3VU.mjs";
+import { a as Pt, b as It } from "chunk-DUTADADP.mjs";
+import { a as Ut } from "chunk-V7FUNARM.mjs";
+import { a as Ct } from "chunk-GAIBBTST.mjs";
+import "chunk-SPWSWTND.mjs";
+import { a as lt, d as pt, e as mt, f as Me, g as ct, h as ut, i as ft } from "chunk-K7K4JNNE.mjs";
+import "chunk-3PGNPVYW.mjs";
+import "chunk-UUL5ZB73.mjs";
+import "chunk-P2CNFMJ7.mjs";
+import { a as it } from "chunk-SM23WZE7.mjs";
+import { a as at } from "chunk-UZIDHC5X.mjs";
+import "chunk-CICVJUAM.mjs";
+import { a as dt, c as ne } from "chunk-TK747F2A.mjs";
+import { a as nt } from "chunk-RHLSOZ2K.mjs";
+import { E as H, F as ot, J as tt, x as Xo } from "chunk-BNJBFYWR.mjs";
+import "chunk-VPDJYJ6F.mjs";
+import { a as rt } from "chunk-OCWO35R2.mjs";
+import { $d as Jo, Vd as $o, Za as qo, _d as _o } from "chunk-YEI3MERI.mjs";
+import "chunk-Q652OIYH.mjs";
+import "chunk-FNUTCKMA.mjs";
+import { Pa as Go, gd as jo, hd as Zo, id as Ko, xb as ye } from "chunk-PJ6FAON2.mjs";
+import "chunk-7GKAI4PF.mjs";
+import "chunk-H2IHWR7I.mjs";
+import "chunk-M5XSLRLD.mjs";
+import "chunk-GWGM5D6M.mjs";
+import "chunk-S76EGIQT.mjs";
+import { a as ht, b as vt, c as Rt } from "chunk-VIQ34J4S.mjs";
+import "chunk-LAEJRDTJ.mjs";
+import { b as st } from "chunk-RSICLQ4I.mjs";
+import "chunk-FABF35V2.mjs";
+import "chunk-K7R2FMXE.mjs";
+import {
+  Aa as J,
+  Ac as q,
+  Ad as po,
+  Bo as wo,
+  Co as ko,
+  Dh as yo,
+  E as Ge,
+  Ea as $e,
+  En as ge,
+  Ew as Uo,
+  Fh as Mo,
+  Fy as Ho,
+  G as qe,
+  Gw as Ao,
+  HI as Qo,
+  KD as Bo,
+  Kh as No,
+  Ko as re,
+  R as je,
+  Rd as mo,
+  Rf as ee,
+  Sd as co,
+  Sh as Lo,
+  Td as uo,
+  Ul as Ie,
+  Wh as xo,
+  Xh as So,
+  Yt as Wo,
+  Za as Ye,
+  ab as eo,
+  ag as oe,
+  bg as ho,
+  cd as oo,
+  ch as Po,
+  fJ as be,
+  fb as ve,
+  fh as Io,
+  gd as to,
+  ge as fo,
+  gh as go,
+  gk as Vo,
+  gm as Eo,
+  hd as ro,
+  ic as X,
+  il as Fo,
+  ji as To,
+  md as j,
+  mh as bo,
+  og as vo,
+  ph as Pe,
+  qd as no,
+  rF as zo,
+  rd as Re,
+  sd as Y,
+  td as ao,
+  ud as io,
+  ug as Ro,
+  ul as Oo,
+  vd as so,
+  wn as A,
+  xd as lo,
+  ya as Ke,
+  ze as Co,
+} from "chunk-QIEZ7GMD.mjs";
+import "chunk-MG2W7LMV.mjs";
+import "chunk-L2QYKMOJ.mjs";
+import "chunk-AYYBTPZU.mjs";
+import "chunk-UYIYJ4FN.mjs";
+import "chunk-6C6VSETA.mjs";
+import "chunk-FYUJQV6J.mjs";
+import "chunk-KYPY4QS7.mjs";
+import { V as W, ea as Do, g as G, ja as te } from "chunk-DHUNMEBO.mjs";
+import "chunk-REJ2XCEK.mjs";
+import "chunk-XFC6OVIX.mjs";
+import { o as Xe } from "chunk-HSJM72PS.mjs";
+import "chunk-XD24P57D.mjs";
+import { e as et } from "chunk-F3T3XR66.mjs";
+import "chunk-XFC6OVIX.mjs";
+import "chunk-FXBMTGPK.mjs";
+import "chunk-EYMNQYLM.mjs";
+import "chunk-5WDLMAA7.mjs";
+import "chunk-UZNETSBG.mjs";
+import { a as gr } from "chunk-LQLFGCPO.mjs";
+import { i as Yo } from "chunk-MUZUMAGY.mjs";
+import "chunk-AFIDN3ND.mjs";
+import { Ye as Ze } from "chunk-P3ZYSNII.mjs";
+import { a as Ir } from "chunk-KWIZ6NK4.mjs";
+import { a as V } from "chunk-JTCAKYEM.mjs";
+import "chunk-EQBCTBZ3.mjs";
+import { b as U, f as _e, h as Je, m as E } from "chunk-LA34HORX.mjs";
+import { a as w } from "chunk-W774OHJB.mjs";
+import { m as Qe } from "chunk-SPICCGE6.mjs";
+import "chunk-BSTISVF5.mjs";
+import {
+  Ba as Ue,
+  Fa as Ae,
+  Ga as He,
+  Sa as Be,
+  Wa as ze,
+  X as _,
+  Y as De,
+  _a as Q,
+  sa as ke,
+  xa as We,
+} from "chunk-FCG35XJJ.mjs";
+import { b as C } from "chunk-4JY5UMT2.mjs";
+import { a as we } from "chunk-YRQ7G4QH.mjs";
+import { e as g } from "chunk-WLHSDIGQ.mjs";
+var $t = new WeakMap();
+function Se(r) {
+  let e = $t.get(r);
+  if (e) return e;
+  let o = new Set();
+  if (((Uo(r) || Ao(r)) && o.add(r), r.children))
+    for (let t of r.children) {
+      let n = Se(t);
+      for (let a of n) o.add(a);
+    }
+  return ($t.set(r, o), o);
+}
+var O = g(w(), 1),
+  vr = g(gr(), 1);
+var k = g(w(), 1),
+  Yt = g(V(), 1),
+  ae = (0, k.createContext)({ nodeInTextEditorId: void 0, clipPath: void 0 });
+ae.displayName = "NodeInTextEditorContext";
+function _t({ children: r, nodeInTextEditorId: e, clipPath: o }) {
+  let t = (0, k.useMemo)(() => ({ nodeInTextEditorId: e, clipPath: o ?? void 0 }), [e, o]);
+  return (0, Yt.jsx)(ae.Provider, { value: t, children: r });
+}
+function Jt() {
+  let { nodeInTextEditorId: r } = (0, k.useContext)(ae);
+  return r;
+}
+function Xt() {
+  let { clipPath: r } = (0, k.useContext)(ae);
+  return r;
+}
+var R = g(w(), 1),
+  ar = g(Ir(), 1);
+var ie = g(w(), 1),
+  tr = g(V(), 1),
+  er = (0, ie.createContext)(void 0);
+function or({ children: r, update: e }) {
+  return (0, tr.jsx)(er.Provider, { value: e, children: r });
+}
+function Te() {
+  return (0, ie.useContext)(er);
+}
+var de = g(w(), 1),
+  B = g(V(), 1);
+function se({ context: r, children: e, fallback: o }) {
+  return (0, B.jsx)(de.Suspense, {
+    fallback: (0, B.jsx)(br, { context: r, children: o }),
+    children: e,
+  });
+}
+function br({ context: r, children: e }) {
+  return (
+    (0, de.useLayoutEffect)(() => r.loadingStateTracker.trackSuspense(), [r]),
+    (0, B.jsx)(B.Fragment, { children: e })
+  );
+}
+function Z(r, e) {
+  let o = new Set();
+  o.add(e);
+  let t = re(r, e);
+  if (t) {
+    let n = ft(t, { includeLocalizedValues: !0 });
+    for (let a of n) o.add(a);
+  }
+  return o;
+}
+var m = g(V(), 1);
+Ge({ target: qe.canvas });
+function ir({ context: r, webPageNode: e, collectionItemNode: o, breakpointNode: t }) {
+  let n = (0, R.useContext)(oe).activeLocale ?? void 0,
+    a = (0, R.useMemo)(() => {
+      if (e && t) return It(e, t, r.componentLoader);
+    }, [e, t, r.componentLoader]);
+  if (e && t)
+    return (0, m.jsx)(se, {
+      context: r,
+      children: (0, m.jsx)(vo.Provider, {
+        value: a,
+        children: (0, m.jsx)(yr, {
+          context: r,
+          webPageNode: e,
+          collectionItemNode: o,
+          breakpointNode: t,
+          activeLocale: n,
+        }),
+      }),
+    });
+}
+function yr({
+  context: r,
+  webPageNode: e,
+  collectionItemNode: o,
+  breakpointNode: t,
+  activeLocale: n,
+}) {
+  let a = e.tree();
+  C(a, "Must have a tree");
+  let [i, l] = r.modulesRuntime.useComponentLoader(),
+    d = e.getProvidedControlMap(a, void 0, i, l);
+  C(d, "Control map must exist");
+  let s = e.getProvidedValueMap(a, void 0, i, r.sandboxRepeaterData, l),
+    c = (0, R.useMemo)(() => {
+      if (!d) return;
+      let u = new Map();
+      return (u.set(e.id, d), u);
+    }, [d, e.id]),
+    p = (0, R.useMemo)(() => {
+      if (!s) return;
+      let u = new Map();
+      return (u.set(e.id, s), u);
+    }, [s, e.id]);
+  return X(e) && o
+    ? (0, m.jsx)(Mr, {
+        context: r,
+        webPageNode: e,
+        collectionItemNode: o,
+        breakpointNode: t,
+        activeLocale: n,
+        combinedControlMap: c,
+      })
+    : (0, m.jsx)(dr, {
+        context: r,
+        webPageNode: e,
+        breakpointNode: t,
+        combinedControlMap: c,
+        combinedValueMap: p,
+        placeholderVariableIds: void 0,
+        activeLocale: n,
+      });
+}
+function Mr({
+  context: r,
+  webPageNode: e,
+  collectionItemNode: o,
+  breakpointNode: t,
+  activeLocale: n,
+  combinedControlMap: a,
+}) {
+  let i = e.tree();
+  C(i, "Must have a tree");
+  let l = a?.get(e.id);
+  C(l, "Control map must exist");
+  let d = e.dataIdentifier,
+    s = Z(i, d);
+  r.modulesRuntime.usePreloadedModules(...s);
+  let [c, p] = r.modulesRuntime.useComponentLoader(),
+    u = c.dataForIdentifier(d);
+  C(u, "Data definition must exist after preloading module");
+  let f = ut(i, c, l, e, t, n, o.id, "public-and-private"),
+    v = Pe(f);
+  r.sandboxRepeaterData.set(e.id, v, l);
+  let P = e.getProvidedValueMap(i, void 0, c, r.sandboxRepeaterData, p);
+  C(P, "Value map must exist");
+  let I = re(i, d),
+    { patchedValueMap: S, placeholderVariableIds: b } = (0, R.useMemo)(
+      () => (I ? Nr(I, P) : { patchedValueMap: P, placeholderVariableIds: new Set() }),
+      [I, P]
+    ),
+    M = (0, R.useMemo)(() => {
+      let L = new Map();
+      return (L.set(e.id, S), L);
+    }, [S, e.id]);
+  return (0, m.jsx)(dr, {
+    context: r,
+    webPageNode: e,
+    breakpointNode: t,
+    combinedControlMap: a,
+    combinedValueMap: M,
+    placeholderVariableIds: b,
+    activeLocale: n,
+  });
+}
+function Nr(r, e) {
+  let o = new Bo(e),
+    t = new Set();
+  for (let [n, a] of e) {
+    let i = r.getVariable(n);
+    if (i) {
+      if (i.type === "string") {
+        if (!(!a || (U(a) && a.trim() === ""))) continue;
+        let d = i.options?.placeholder || i.description || i.name;
+        (o.set(n, d), t.add(n));
+      }
+      if (i.type === "richtext") {
+        if (!(!a || (U(a) && nt(a)))) continue;
+        (o.set(n, `<p>${i.description || i.name}</p>`), t.add(n));
+      }
+    }
+  }
+  return { patchedValueMap: o, placeholderVariableIds: t };
+}
+function dr({
+  context: r,
+  webPageNode: e,
+  breakpointNode: o,
+  combinedControlMap: t,
+  combinedValueMap: n,
+  placeholderVariableIds: a,
+  activeLocale: i,
+}) {
+  return Ie(e)
+    ? (0, m.jsx)(se, {
+        context: r,
+        children: (0, m.jsx)(xr, {
+          context: r,
+          webPageNode: e,
+          breakpointNode: o,
+          combinedControlMap: t,
+          combinedValueMap: n,
+          placeholderVariableIds: a,
+          activeLocale: i,
+        }),
+      })
+    : (0, m.jsx)(z, {
+        context: r,
+        parentRenderId: e.id,
+        node: o,
+        parent: e,
+        combinedControlMap: t,
+        combinedValueMap: n,
+        placeholderVariableIds: a,
+        activeLocale: i,
+        nodePropOverrides: void 0,
+      });
+}
+var sr = { minHeight: "100vh", width: "auto" },
+  Lr = Mt();
+function xr({
+  context: r,
+  webPageNode: e,
+  breakpointNode: o,
+  combinedControlMap: t,
+  combinedValueMap: n,
+  placeholderVariableIds: a,
+  activeLocale: i,
+}) {
+  let l = (0, R.useRef)(null),
+    d = (0, R.useRef)(null);
+  r.modulesRuntime.usePreloadedModules(e.layoutTemplateIdentifier);
+  let [s] = r.modulesRuntime.useComponentLoader(),
+    c = ne(),
+    p = pe(r.fetchClient, e),
+    u = e.getResolvedControlPropValues(s, c, n, i, p),
+    f = s.reactComponentForIdentifier(e.layoutTemplateIdentifier);
+  C(f, "Component definition not found");
+  let v = f.class,
+    P = Vo(o) && Co(o) ? o.width : void 0,
+    {
+      activeVariant: I,
+      className: S,
+      selectors: b,
+    } = Nt(s, e.layoutTemplateIdentifier, P, Lr) ?? {};
+  (0, R.useLayoutEffect)(() => {
+    if (!l.current || !d.current) return;
+    let L = Ne(d.current);
+    if ((r.layoutMeasureQueue.add(o.id, l.current, L), !!b))
+      for (let F of b) {
+        let h = l.current.querySelector(F);
+        h && r.layoutMeasureQueue.add(o.id, h, [], F);
+      }
+  }, [r.layoutMeasureQueue, o.id, b]);
+  let M = (0, R.useMemo)(() => ({ ref: d }), []);
+  return (0, m.jsx)("div", {
+    ref: l,
+    className: S,
+    children: (0, m.jsx)(v, {
+      ...u,
+      style: sr,
+      variant: I,
+      children: (0, m.jsx)(z, {
+        context: r,
+        parentRenderId: e.id,
+        node: o,
+        parent: e,
+        combinedControlMap: t,
+        combinedValueMap: n,
+        placeholderVariableIds: a,
+        activeLocale: i,
+        nodePropOverrides: M,
+      }),
+    }),
+  });
+}
+var z = (0, R.memo)(function ({
+  context: e,
+  parentRenderId: o,
+  node: t,
+  parent: n,
+  combinedControlMap: a,
+  combinedValueMap: i,
+  placeholderVariableIds: l,
+  activeLocale: d,
+  nodePropOverrides: s,
+  skipNodeLevelRepeat: c,
+}) {
+  let p = H(o, t.id),
+    u = lr({
+      context: e,
+      renderId: p,
+      node: t,
+      parent: n,
+      combinedControlMap: a,
+      combinedValueMap: i,
+      activeLocale: d,
+    });
+  return u
+    ? (0, m.jsx)(se, {
+        context: e,
+        children: (0, m.jsx)(Vr, {
+          context: e,
+          renderId: p,
+          tree: u,
+          node: t,
+          parent: n,
+          combinedControlMap: a,
+          combinedValueMap: i,
+          placeholderVariableIds: l,
+          activeLocale: d,
+          nodePropOverrides: s,
+          skipNodeLevelRepeat: c,
+        }),
+      })
+    : null;
+});
+function lr({
+  context: r,
+  renderId: e,
+  node: o,
+  parent: t,
+  combinedControlMap: n,
+  combinedValueMap: a,
+  activeLocale: i,
+}) {
+  let l = o.tree();
+  (o.cache.resetForRendering(),
+    o.cache.setVariableValueAndControlMap(a, a, n, i, o, l, void 0),
+    tt(t, o));
+  let d = !Wo(o) && o.resolveValue("visible", a) !== !1;
+  return (r.sandboxVisibility.setVisible(e, d), d ? l : null);
+}
+function Sr(r, e, o, t, n, a, i) {
+  let l = pe(r.fetchClient, o),
+    d = o.getProps(r.componentLoader, n, a, l);
+  if (
+    (j(t) &&
+      ((d.style ??= {}),
+      (d.style.position = "relative"),
+      (d.style.width = "100%"),
+      Ie(t)
+        ? ((d.style.display = "contents"),
+          (d.style.position = "relative"),
+          (d._needsMeasure = !1),
+          (d["data-layout-template-root"] = !0))
+        : Object.assign(d.style, sr)),
+    Re(o))
+  ) {
+    let s = Ot(o, a);
+    s && (d.viewBox = s);
+    let c = Ft(o, n, l);
+    c && (d.text = c);
+  }
+  if (((d.id = e), i))
+    for (let s in i) {
+      let c = i[s];
+      s === "style" && d.style ? Object.assign(d.style, c) : (d[s] = c);
+    }
+  return d;
+}
+var Tr = No(J);
+function Vr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  parent: n,
+  combinedControlMap: a,
+  combinedValueMap: i,
+  placeholderVariableIds: l,
+  activeLocale: d,
+  nodePropOverrides: s,
+  skipNodeLevelRepeat: c,
+}) {
+  let p = Sr(r, e, t, n, i, d, s);
+  if (!c && A(t))
+    return (0, m.jsx)(kr, {
+      context: r,
+      renderId: e,
+      tree: o,
+      node: t,
+      parent: n,
+      combinedControlMap: a,
+      combinedValueMap: i,
+      placeholderVariableIds: l,
+      activeLocale: d,
+      nodeProps: p,
+      nodePropOverrides: s,
+    });
+  if (so(t)) return (0, m.jsx)(xo, { ...p });
+  if (po(t))
+    return (
+      xe(t),
+      (0, m.jsx)(J, {
+        ...p,
+        as: "svg",
+        children: t.children.map((u) => {
+          let f = H(e, u.id);
+          return Le(u, r.componentLoader, i, r.sandboxVisibility, f, !1, void 0);
+        }),
+      })
+    );
+  if (Fo(t)) return (xe(t), Le(t, r.componentLoader, i, r.sandboxVisibility, e, !0, p));
+  if (no(t)) return (0, m.jsx)(So, { ...p });
+  if (Re(t))
+    return (0, m.jsx)(Fr, {
+      context: r,
+      node: t,
+      combinedValueMap: i,
+      placeholderVariableIds: l,
+      activeLocale: d,
+      nodeProps: p,
+      renderId: e,
+    });
+  if (oo(t))
+    return to(t)
+      ? (0, m.jsx)(zr, {
+          context: r,
+          renderId: e,
+          tree: o,
+          node: t,
+          parent: n,
+          combinedControlMap: a,
+          combinedValueMap: i,
+          placeholderVariableIds: l,
+          activeLocale: d,
+          nodeProps: p,
+        })
+      : ro(t)
+        ? (0, m.jsx)(Qr, {
+            context: r,
+            renderId: e,
+            tree: o,
+            node: t,
+            parent: n,
+            combinedControlMap: a,
+            combinedValueMap: i,
+            placeholderVariableIds: l,
+            activeLocale: d,
+            nodeProps: p,
+          })
+        : (0, m.jsx)(Dr, {
+            context: r,
+            renderId: e,
+            tree: o,
+            node: t,
+            parent: n,
+            combinedControlMap: a,
+            combinedValueMap: i,
+            placeholderVariableIds: l,
+            activeLocale: d,
+            nodeProps: p,
+          });
+  if (mo(t)) return (0, m.jsx)(jo, { ...p });
+  if (uo(t))
+    return (0, m.jsx)(Ko, {
+      ...p,
+      node: t,
+      tree: o,
+      componentLoader: r.componentLoader,
+      combinedValueMap: i,
+      activeLocale: d,
+    });
+  if (co(t)) {
+    let u = o.getGroundNodeFor(t).id;
+    return (0, m.jsx)(Zo, { ...p, groundNodeId: u });
+  }
+  return io(t)
+    ? null
+    : Y(t)
+      ? t.isVectorInstance
+        ? (0, m.jsx)(Hr, {
+            node: t,
+            context: r,
+            nodeProps: p,
+            combinedValueMap: i,
+            activeLocale: d,
+          })
+        : (0, m.jsx)(Ur, {
+            context: r,
+            renderId: e,
+            node: t,
+            combinedControlMap: a,
+            combinedValueMap: i,
+            placeholderVariableIds: l,
+            activeLocale: d,
+            nodeProps: p,
+          })
+      : ao(t)
+        ? (0, m.jsx)(Ar, { node: t, nodeProps: p })
+        : (fo(t), null);
+}
+var Fr = (0, R.memo)(function ({
+  context: e,
+  node: o,
+  combinedValueMap: t,
+  placeholderVariableIds: n,
+  activeLocale: a,
+  nodeProps: i,
+  renderId: l,
+}) {
+  let d = o.getFontsForLoading();
+  (e.fontLoader.usePreloadedFonts(...d), (i = { ...i }));
+  let s = Jt(),
+    c = Xt();
+  if (s === l)
+    if (c) {
+      let u = i.style ?? {};
+      i.style = { ...u, clipPath: c };
+    } else i.isEditable = !0;
+  Wr(o, n) && (i.opacity = 0.3);
+  let p = (0, R.useMemo)(() => Vt(o, t, a), [o, t, a]);
+  if (ve(o.htmlContent) && o.getComponentPresets().size > 0) {
+    let u = o.tree();
+    return (
+      C(u, "Must have a tree"),
+      (0, m.jsx)(gt, {
+        tree: u,
+        componentLoader: e.componentLoader,
+        node: o,
+        richTextProps: i,
+        children: p,
+      })
+    );
+  }
+  return (0, m.jsx)(Lo, { ...i, children: p });
+});
+function le({ node: r, nodeProps: e, children: o }) {
+  let t = (0, R.useRef)(null),
+    n = e.ref ?? t,
+    a = Or(r);
+  Ke(e, n, a);
+  let i = Er(r);
+  return (0, m.jsx)(i, { ...e, ref: n, children: o });
+}
+function Or(r) {
+  return q(r) ? bt : Ne;
+}
+function Er(r) {
+  return q(r) ? Tr : J;
+}
+function Ve({ moveState: r, ...e }) {
+  let { parentRenderId: o, node: t } = e,
+    n = H(o, t.id),
+    a;
+  r &&
+    n === r.renderId &&
+    (a = {
+      style: {
+        left: r.rect.left,
+        top: r.rect.top,
+        alignSelf: "unset",
+        justifySelf: "unset",
+        placeSelf: "unset",
+        zIndex: 999999,
+        width: r.rect.width,
+        height: r.rect.height,
+        position: "absolute",
+        outline: `1px solid ${Yo.onPageHighlightBorderDragging}`,
+      },
+    });
+  let i = (0, m.jsx)(z, { ...e, nodePropOverrides: a });
+  return r && n === r.renderId
+    ? (0, m.jsxs)(R.Fragment, {
+        children: [
+          (0, m.jsx)(yt, {
+            width: r.placeholder.attributes.width,
+            height: r.placeholder.attributes.height,
+          }),
+          (0, ar.createPortal)(i, document.body),
+        ],
+      })
+    : i;
+}
+function pr(r, e) {
+  let o = r.getChildrenInVisualOrder();
+  if (e && e.placeholder.nodeId === r.id) {
+    let t = o.findIndex((n) => n.id === e.nodeId);
+    return ze.move([...o], t, e.placeholder.index);
+  }
+  return o;
+}
+function Dr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  parent: n,
+  combinedControlMap: a,
+  combinedValueMap: i,
+  placeholderVariableIds: l,
+  activeLocale: d,
+  nodeProps: s,
+}) {
+  let c = Te(),
+    p = pr(t, c);
+  return q(t)
+    ? (0, m.jsx)(wr, {
+        context: r,
+        renderId: e,
+        tree: o,
+        node: t,
+        parent: n,
+        combinedControlMap: a,
+        combinedValueMap: i,
+        placeholderVariableIds: l,
+        activeLocale: d,
+        nodeProps: s,
+        moveState: c,
+        children: p,
+      })
+    : (0, m.jsx)(le, {
+        node: t,
+        nodeProps: s,
+        children: p.map((u) =>
+          (0, m.jsx)(
+            Ve,
+            {
+              context: r,
+              parentRenderId: e,
+              node: u,
+              parent: t,
+              combinedControlMap: a,
+              combinedValueMap: i,
+              placeholderVariableIds: l,
+              activeLocale: d,
+              moveState: c,
+            },
+            u.id
+          )
+        ),
+      });
+}
+function wr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  combinedControlMap: n,
+  combinedValueMap: a,
+  placeholderVariableIds: i,
+  activeLocale: l,
+  nodeProps: d,
+  moveState: s,
+  children: c,
+}) {
+  let [p, u] = r.modulesRuntime.useComponentLoader();
+  return (0, m.jsx)(le, {
+    node: t,
+    nodeProps: d,
+    children: c.map((f) => {
+      let v = H(e, f.id);
+      return A(f) && s?.renderId !== v
+        ? Fe({
+            context: r,
+            renderId: v,
+            tree: o,
+            node: f,
+            parent: t,
+            combinedControlMap: n,
+            combinedValueMap: a,
+            placeholderVariableIds: i,
+            activeLocale: l,
+            nodePropOverrides: void 0,
+            componentLoader: p,
+            componentLoaderHash: u,
+          })
+        : (0, m.jsx)(
+            Ve,
+            {
+              context: r,
+              parentRenderId: e,
+              node: f,
+              parent: t,
+              combinedControlMap: n,
+              combinedValueMap: a,
+              placeholderVariableIds: i,
+              activeLocale: l,
+              moveState: s,
+            },
+            f.id
+          );
+    }),
+  });
+}
+function kr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  parent: n,
+  combinedControlMap: a,
+  combinedValueMap: i,
+  placeholderVariableIds: l,
+  activeLocale: d,
+  nodePropOverrides: s,
+}) {
+  let [c, p] = r.modulesRuntime.useComponentLoader();
+  return Fe({
+    context: r,
+    renderId: e,
+    tree: o,
+    node: t,
+    parent: n,
+    combinedControlMap: a,
+    combinedValueMap: i,
+    placeholderVariableIds: l,
+    activeLocale: d,
+    nodePropOverrides: s,
+    componentLoader: c,
+    componentLoaderHash: p,
+    nodeWasPrepared: !0,
+  });
+}
+function Fe({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  parent: n,
+  combinedControlMap: a,
+  combinedValueMap: i,
+  placeholderVariableIds: l,
+  activeLocale: d,
+  nodePropOverrides: s,
+  componentLoader: c,
+  componentLoaderHash: p,
+  nodeWasPrepared: u = !1,
+}) {
+  if (
+    !u &&
+    !lr({
+      context: r,
+      renderId: e,
+      node: t,
+      parent: n,
+      combinedControlMap: a,
+      combinedValueMap: i,
+      activeLocale: d,
+    })
+  )
+    return null;
+  let f = xt({
+    tree: o,
+    node: t,
+    renderId: e,
+    componentLoader: c,
+    componentLoaderHash: p,
+    sandboxRepeaterData: r.sandboxRepeaterData,
+    combinedControlMap: a,
+    combinedValueMap: i,
+  });
+  return f
+    ? f.items.map((v) =>
+        (0, m.jsx)(
+          mr,
+          {
+            context: r,
+            tree: o,
+            node: t,
+            parent: n,
+            combinedControlMap: a,
+            combinedValueMap: i,
+            placeholderVariableIds: l,
+            activeLocale: d,
+            nodePropOverrides: s,
+            item: v,
+            arrayControl: f.arrayControl,
+            itemCount: f.itemCount,
+          },
+          v.id
+        )
+      )
+    : null;
+}
+function mr({
+  context: r,
+  tree: e,
+  node: o,
+  parent: t,
+  combinedControlMap: n,
+  combinedValueMap: a,
+  placeholderVariableIds: i,
+  activeLocale: l,
+  nodePropOverrides: d,
+  item: s,
+  arrayControl: c,
+  itemCount: p,
+}) {
+  let u = (0, R.useMemo)(
+    () =>
+      St({
+        tree: e,
+        node: o,
+        itemValue: s.value,
+        itemIndex: s.index,
+        arrayControl: c,
+        itemCount: p,
+        combinedValueMap: a,
+        combinedControlMap: n,
+      }),
+    [e, o, s.value, s.index, c, p, a, n]
+  );
+  return (0, m.jsx)(z, {
+    context: r,
+    parentRenderId: s.parentRenderId,
+    node: o,
+    parent: t,
+    combinedControlMap: u.combinedControlMap,
+    combinedValueMap: u.combinedValueMap,
+    placeholderVariableIds: i,
+    activeLocale: l,
+    nodePropOverrides: d,
+    skipNodeLevelRepeat: !0,
+  });
+}
+function Wr(r, e) {
+  return e ? rr(r.htmlContent, e) || rr(r.textContent, e) : !1;
+}
+function rr(r, e) {
+  return ve(r) ? e.has(r.id) : !1;
+}
+function Ur({
+  context: r,
+  renderId: e,
+  node: o,
+  combinedControlMap: t,
+  combinedValueMap: n,
+  placeholderVariableIds: a,
+  activeLocale: i,
+  nodeProps: l,
+}) {
+  let d = o.tree();
+  (C(d, "Must have a tree"), r.modulesRuntime.usePreloadedModules(o.codeComponentIdentifier));
+  let [s, c] = r.modulesRuntime.useComponentLoader(),
+    p = s.reactComponentForIdentifier(o.codeComponentIdentifier);
+  C(p, "Component definition not found");
+  let u = ne(),
+    f = pe(r.fetchClient, o),
+    v = o.getCodeComponentProps(s, u, n, i, f),
+    P = _o(d, o, s);
+  P.children = Jo(d, o, s);
+  let I = (h, x) =>
+    Tt({
+      tree: d,
+      componentNodeId: o.id,
+      componentRenderId: e,
+      slotKey: h,
+      slotItems: x,
+      maxItemCount: $o(p, h),
+      componentLoader: s,
+      componentLoaderHash: c,
+      sandboxRepeaterData: r.sandboxRepeaterData,
+      combinedValueMap: n,
+      combinedControlMap: t,
+    }).map((N) =>
+      N.repeatItem && N.repeatItemCount !== void 0
+        ? (0, m.jsx)(
+            mr,
+            {
+              context: r,
+              tree: d,
+              node: N.node,
+              parent: o,
+              combinedControlMap: t,
+              combinedValueMap: n,
+              placeholderVariableIds: a,
+              activeLocale: i,
+              nodePropOverrides: nr,
+              item: N.repeatItem,
+              arrayControl: N.repeatArrayControl,
+              itemCount: N.repeatItemCount,
+            },
+            N.key
+          )
+        : (0, m.jsx)(
+            z,
+            {
+              context: r,
+              parentRenderId: N.parentRenderId,
+              node: N.node,
+              parent: o,
+              combinedControlMap: t,
+              combinedValueMap: n,
+              placeholderVariableIds: a,
+              activeLocale: i,
+              nodePropOverrides: nr,
+              skipNodeLevelRepeat: !0,
+            },
+            N.key
+          )
+    );
+  for (let h in P) {
+    let x = P[h];
+    x && (v[h] = I(h, x));
+  }
+  let S = o.getRichTextControlKeys(s),
+    b = {
+      tree: d,
+      componentLoader: s,
+      cacheKey: c,
+      resolveVectorSetItem(h) {
+        return s.reactComponentForIdentifier(h)?.class;
+      },
+    };
+  for (let h of S) v[h] = kt(v[h], b);
+  let M = o.getComponentVectorSetChildren(s, n),
+    L = new Set();
+  for (let h in M) {
+    let x = M[h];
+    E(x) || (L.add(x), r.modulesRuntime.preloadModule(x));
+  }
+  for (let h of Dt(v, o, s)) (L.add(h), r.modulesRuntime.preloadModule(h));
+  (r.modulesRuntime.usePreloadedModules(...L), wt(v, o, b), Et(v, o, s, b.resolveVectorSetItem));
+  for (let h in M) {
+    let x = M[h];
+    if (E(x)) continue;
+    let T = s.reactComponentForIdentifier(x);
+    (C(T, "Vector definition not found"), (v[h] = T.class));
+  }
+  let F = p.class;
+  return (0, m.jsx)(Lt, { componentLoader: s, ...l, children: (0, m.jsx)(F, { ...v }) });
+}
+function Ar({ node: r, nodeProps: e }) {
+  let o;
+  if (r.shaderFallbackImage) {
+    let t = te(r.shaderFallbackImage);
+    t && (o = G(t.identifier));
+  }
+  return (0, m.jsx)(yo, { ...e, mode: "fallback", fallbackImage: o });
+}
+function Hr({ context: r, node: e, nodeProps: o, combinedValueMap: t, activeLocale: n }) {
+  let [a] = r.modulesRuntime.useComponentLoader(),
+    i = ne(),
+    l = pe(r.fetchClient, e);
+  return lt({
+    node: e,
+    frameProps: o,
+    getCodeComponentProps() {
+      return e.getCodeComponentProps(a, i, t, n, l);
+    },
+    combinedValueMap: t,
+    renderVectorWithIdentifier(d, s) {
+      return (0, m.jsx)(Br, { context: r, identifier: d, getProps: s });
+    },
+  });
+}
+function Br({ context: r, identifier: e, getProps: o }) {
+  (r.modulesRuntime.preloadModule(e), r.modulesRuntime.usePreloadedModules(e));
+  let [t] = r.modulesRuntime.useComponentLoader(),
+    n = t.reactComponentForIdentifier(e);
+  C(n, "Component definition not found");
+  let a = o(),
+    i = n.class;
+  return (0, m.jsx)(i, { ...a });
+}
+var nr = { position: "relative" };
+function zr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  combinedControlMap: n,
+  combinedValueMap: a,
+  placeholderVariableIds: i,
+  activeLocale: l,
+  nodeProps: d,
+}) {
+  let s = Z(o, t.dataIdentifier);
+  r.modulesRuntime.usePreloadedModules(...s);
+  let [c, p] = r.modulesRuntime.useComponentLoader(),
+    u = t.getProvidedControlMap(o, void 0, c, p);
+  C(u, "Control map must exist");
+  let f = ge(o, t),
+    v = !!f && !A(f),
+    P = t.getPrimaryId(),
+    I = (0, R.useMemo)(() => {
+      let T = new Map(n);
+      return (T.set(P, u), T);
+    }, [u, n, P]),
+    S = Xo(
+      t,
+      I,
+      pt(o, t),
+      (T) =>
+        f
+          ? { type: "LiteralValue", value: f.cache.getVariableReferenceValue(T, a) }
+          : { type: "LiteralValue", value: void 0 },
+      (T) => ct(o, c, t, T, l)
+    );
+  Ho(t) && mt(S, t);
+  let b = Pe(S);
+  r.sandboxRepeaterData.set(e, b, u);
+  let M = b.length,
+    L = (0, R.useMemo)(
+      () =>
+        b.map((T, N) => {
+          let K = new Map(a),
+            $ = Me(o, u, T, N, M);
+          return (K.set(P, $), K);
+        }),
+      [o, u, a, P, b, M]
+    ),
+    { nonRepeatedChildCombinedControlMap: F, nonRepeatedChildCombinedValueMap: h } = be(n, a, P, M),
+    x = cr({
+      context: r,
+      tree: o,
+      renderId: e,
+      node: t,
+      repeatedChild: v ? f : void 0,
+      items: b,
+      repeatedChildCombinedValueMapPerItem: L,
+      repeatedChildCombinedControlMap: I,
+      nonRepeatedChildCombinedControlMap: F,
+      nonRepeatedChildCombinedValueMap: h,
+      placeholderVariableIds: i,
+      activeLocale: l,
+      componentLoader: c,
+      componentLoaderHash: p,
+    });
+  return (0, m.jsx)(le, { node: t, nodeProps: d, children: x });
+}
+function Qr({
+  context: r,
+  renderId: e,
+  tree: o,
+  node: t,
+  combinedControlMap: n,
+  combinedValueMap: a,
+  placeholderVariableIds: i,
+  activeLocale: l,
+  nodeProps: d,
+}) {
+  C(a, "Combined value map must exist");
+  let [s, c] = r.modulesRuntime.useComponentLoader(),
+    p = t.getProvidedControlMap(o, void 0, s, c);
+  C(p, "Control map must exist");
+  let u = t.dataRepeaterArray,
+    f = u.providerId;
+  C(f, "Variable must have providerId");
+  let v = a.get(f);
+  C(v, "Provider value map must exist");
+  let P = v.get(u.id);
+  C(Je(P) && P.every(_e), "Invalid array value");
+  let I = t.getPrimaryId(),
+    S = ge(o, t),
+    b = !!S && !A(S),
+    M = (0, R.useMemo)(() => {
+      let N = new Map(n);
+      return (N.set(I, p), N);
+    }, [p, n, I]),
+    L = P.length,
+    F = (0, R.useMemo)(
+      () =>
+        P.map((N, K) => {
+          let $ = new Map(a),
+            Pr = Me(o, p, N, K, L);
+          return ($.set(I, Pr), $);
+        }),
+      [o, p, a, I, P, L]
+    ),
+    { nonRepeatedChildCombinedControlMap: h, nonRepeatedChildCombinedValueMap: x } = be(n, a, I, L),
+    T = cr({
+      context: r,
+      tree: o,
+      renderId: e,
+      node: t,
+      repeatedChild: b ? S : void 0,
+      items: P,
+      repeatedChildCombinedValueMapPerItem: F,
+      repeatedChildCombinedControlMap: M,
+      nonRepeatedChildCombinedControlMap: h,
+      nonRepeatedChildCombinedValueMap: x,
+      placeholderVariableIds: i,
+      activeLocale: l,
+      componentLoader: s,
+      componentLoaderHash: c,
+    });
+  return (0, m.jsx)(le, { node: t, nodeProps: d, children: T });
+}
+function cr({
+  context: r,
+  tree: e,
+  renderId: o,
+  node: t,
+  repeatedChild: n,
+  items: a,
+  repeatedChildCombinedValueMapPerItem: i,
+  repeatedChildCombinedControlMap: l,
+  nonRepeatedChildCombinedValueMap: d,
+  nonRepeatedChildCombinedControlMap: s,
+  placeholderVariableIds: c,
+  activeLocale: p,
+  componentLoader: u,
+  componentLoaderHash: f,
+}) {
+  let v = Te();
+  return pr(t, v).map((I) => {
+    if (I.id === n?.id)
+      return a.map((b, M) => {
+        let L = b.id,
+          F = U(L) ? L : M,
+          h = i[M],
+          x = ot(o, t.id, F, M);
+        return (0, m.jsx)(
+          z,
+          {
+            context: r,
+            parentRenderId: x,
+            node: I,
+            parent: t,
+            combinedControlMap: l,
+            combinedValueMap: h,
+            placeholderVariableIds: c,
+            activeLocale: p,
+            nodePropOverrides: void 0,
+          },
+          F
+        );
+      });
+    let S = H(o, I.id);
+    return q(t) && A(I) && v?.renderId !== S
+      ? Fe({
+          context: r,
+          renderId: S,
+          tree: e,
+          node: I,
+          parent: t,
+          combinedControlMap: s,
+          combinedValueMap: d,
+          placeholderVariableIds: c,
+          activeLocale: p,
+          nodePropOverrides: void 0,
+          componentLoader: u,
+          componentLoaderHash: f,
+        })
+      : (0, m.jsx)(
+          Ve,
+          {
+            context: r,
+            parentRenderId: o,
+            node: I,
+            parent: t,
+            combinedControlMap: s,
+            combinedValueMap: d,
+            placeholderVariableIds: c,
+            activeLocale: p,
+            moveState: v,
+          },
+          I.id
+        );
+  });
+}
+function pe(r, e) {
+  return (o) => {
+    let t = Ye(o);
+    if (!Gt(t)) return qt(e, t.controlProp);
+    let n = eo(t, (l) => e.cache.getVariableReferenceValue(l)),
+      a = Po({ url: n, credentials: t.credentials }),
+      i = r.getValue(a);
+    if (i) return jt(e, t, i);
+    throw r.fetchWithCache({ url: n, cacheDuration: t.cacheDuration, credentials: t.credentials });
+  };
+}
+var me = g(w(), 1);
+var fr = g(V(), 1);
+function ur({ tree: r, children: e }) {
+  let o = Wt();
+  (0, me.useLayoutEffect)(() => {
+    let n = o ? "dark" : "light";
+    document.body.setAttribute("data-framer-theme", n);
+  }, [o]);
+  let t = (0, me.useMemo)(() => Oo(qo.getAllTokenNodes(r), o), [r, o]);
+  return (0, fr.jsx)(Mo, { customProperties: t, children: e });
+}
+var ce = class {
+  loaders = new Map();
+  preloadFonts(...e) {
+    for (let o of e) {
+      if (this.loaders.has(o)) continue;
+      let t = new ee(async () => {
+        await W.loadFonts([o]);
+      });
+      (t.preload(), this.loaders.set(o, t));
+    }
+  }
+  usePreloadedFonts(...e) {
+    for (let o of e) {
+      let t = this.loaders.get(o);
+      t && t.use();
+    }
+  }
+};
+var ue = class {
+  promises = new Set();
+  trackSuspense() {
+    let e = new Q();
+    return (
+      this.promises.add(e),
+      () => {
+        (e.resolve(), this.promises.delete(e));
+      }
+    );
+  }
+  async waitForSuspense() {
+    this.promises.size !== 0 && (await Promise.all(this.promises), await this.waitForSuspense());
+  }
+};
+var hr = g(w(), 1),
+  Ee = class {
+    constructor(e, o) {
+      this.modulesRuntime = e;
+      this.identifier = o;
+    }
+    modulesRuntime;
+    identifier;
+    loaderPromise = new Q();
+    evaluationRevision = 0;
+    evaluationError;
+    evaluationPromise;
+    loader = new ee(() => this.loaderPromise);
+    async evaluate(e) {
+      let o = ++this.evaluationRevision,
+        t = this.evaluateModule(e, o);
+      ((this.evaluationPromise = t), await t);
+    }
+    async evaluateModule(e, o) {
+      await this.modulesRuntime.waitForDependenciesModule();
+      let t;
+      try {
+        t = await Bt(e);
+      } catch (a) {
+        t = De(a);
+      }
+      let n = [];
+      (await Ht(this.modulesRuntime.queryEngine, this.identifier, t, n, void 0, 0),
+        o === this.evaluationRevision &&
+          ((this.evaluationError = t instanceof Error ? t : void 0),
+          await this.modulesRuntime.updateComponentLoader(n),
+          this.loaderPromise.resolve(),
+          this.modulesRuntime.notifyReactComponents()));
+    }
+    async waitForEvaluation() {
+      if ((await this.loader.readMaybeAsync(), await this.evaluationPromise, this.evaluationError))
+        throw this.evaluationError;
+    }
+  },
+  fe = class {
+    constructor(e) {
+      this.sandbox = e;
+    }
+    sandbox;
+    componentLoaderHash = 0;
+    reactComponentListeners = new Set();
+    dependenciesModulePromise = new Q();
+    dependenciesModuleLoaded = !1;
+    localModules = new Map();
+    loadedModules = new Map();
+    queryEngine = new bo();
+    reactExternalStore = {
+      subscribe: (e) => (
+        this.reactComponentListeners.add(e),
+        () => {
+          this.reactComponentListeners.delete(e);
+        }
+      ),
+      getSnapshot: () => this.componentLoaderHash,
+    };
+    waitForDependenciesModule() {
+      return this.dependenciesModulePromise;
+    }
+    useComponentLoader() {
+      let e = (0, hr.useSyncExternalStore)(
+        this.reactExternalStore.subscribe,
+        this.reactExternalStore.getSnapshot
+      );
+      return [this.sandbox.componentLoader, String(e)];
+    }
+    async updateComponentLoader(e) {
+      (this.sandbox.componentLoader.updateModuleEntities(e),
+        await this.sandbox.remoteComponentsStore.updateComponentLoader(
+          zt(e),
+          this.componentLoaderHash++
+        ));
+    }
+    notifyReactComponents() {
+      for (let e of this.reactComponentListeners) e();
+    }
+    getLocalModuleURL(e) {
+      let o = this.localModules.get(e.localId);
+      if (o) return o.moduleURL;
+    }
+    getExternalModuleURL(e) {
+      return `${we().modulesCDN}/${e.moduleId}/${e.saveId}/${e.file}`;
+    }
+    getModuleURL(e) {
+      return ke(e) ? this.getExternalModuleURL(e) : this.getLocalModuleURL(e);
+    }
+    evaluateLoadedModule(e) {
+      let o = this.getModuleURL(e.identifier);
+      o && e.evaluate(o).catch(_);
+    }
+    async loadModule(e) {
+      return (this.preloadModule(e), this.getPreloadedModule(e).waitForEvaluation());
+    }
+    preloadModule(e) {
+      let o = Cr(e);
+      if (this.loadedModules.get(o.value)) return;
+      let n = new Ee(this, o);
+      (this.loadedModules.set(o.value, n), this.evaluateLoadedModule(n));
+    }
+    getPreloadedModule(e) {
+      let o = Cr(e),
+        t = this.loadedModules.get(o.value);
+      return (C(t, "Module not preloaded"), t);
+    }
+    usePreloadedModules(...e) {
+      let o = [];
+      for (let t of e) {
+        let a = this.getPreloadedModule(t).loader.preload();
+        a && o.push(a);
+      }
+      if (o.length > 0) throw Promise.all(o);
+    }
+    updateDependenciesModule(e) {
+      if (e) {
+        let o = JSON.parse(e.importMapContent);
+        Oe(o, "framer-user-importmap");
+      }
+      ((this.dependenciesModuleLoaded = !0), this.dependenciesModulePromise.resolve());
+    }
+    updateLocalModules(e) {
+      let o = new Map(),
+        t = new Set();
+      for (let [, n] of e) {
+        C(n.kind !== "fast-refresh", "Fast-refresh is not supported");
+        let a = n.localId;
+        (o.set(a, n), this.localModules.get(a)?.moduleURL !== n.moduleURL && t.add(a));
+      }
+      ((this.localModules = o), this.updateLocalModulesImportMap());
+      for (let n of t) {
+        let a = We(n),
+          i = this.loadedModules.get(a.value);
+        i && this.evaluateLoadedModule(i);
+      }
+    }
+    updateLocalModulesImportMap() {
+      let e = { imports: {} };
+      for (let [o, t] of this.localModules) {
+        let n = t.files.module;
+        if (!n) continue;
+        let a = He(o, n);
+        e.imports[a] = t.moduleURL;
+      }
+      Oe(e, "framer-local-modules");
+    }
+    insertTemporaryImportMap(e) {
+      let o = crypto.randomUUID();
+      Oe(e, o);
+    }
+  };
+function Cr(r) {
+  let e = Ue(r);
+  return (C(e, "Invalid module identifier"), Ae(e));
+}
+function Oe(r, e) {
+  let o = document.createElement("script");
+  ((o.type = "importmap-shim"), (o.id = e), (o.innerHTML = JSON.stringify(r)));
+  let t = document.getElementById(e);
+  t ? t.replaceWith(o) : document.body.appendChild(o);
+}
+var y = g(V(), 1),
+  Ce = class {
+    constructor(e) {
+      this.container = e;
+      this.reactRoot = (0, vr.createRoot)(this.container);
+      let o = new Ct(D);
+      (o.setLocal(D.channels.sandbox, this),
+        o.setLocal(D.channels.controlsVisibility, this.controlsVisibility),
+        o.setLocal(D.channels.modulesRuntime, this.modulesRuntime),
+        o.setLocal(D.channels.flags, this),
+        (this.remoteComponentsStore = o.getRemote(D.channels.componentsStore)),
+        (this.remoteSandboxStore = o.getRemote(D.channels.sandboxStore)),
+        (this.remoteTreeStore = o.getRemote(D.channels.treeStore)),
+        this.connectRpc(o).catch(_));
+    }
+    container;
+    reactRoot;
+    needsRender = !1;
+    assetMap = new Do();
+    fontLoader = new ce();
+    componentLoader = new zo();
+    modulesRuntime = new fe(this);
+    fetchClient = new Io();
+    loadingStateTracker = new ue();
+    sandboxRepeaterData = new at("sandbox");
+    sandboxVisibility = new it("sandbox");
+    optimizedCanvasImageRenderer = new Qt();
+    partialTreeReceiver = new At(this.componentLoader);
+    get tree() {
+      return this.partialTreeReceiver.tree;
+    }
+    controlsVisibility = new Zt(this.componentLoader, this.partialTreeReceiver);
+    presetsListNode;
+    activeLocaleId;
+    webPageNodeId;
+    webPageNode;
+    collectionItemNodeId;
+    collectionItemNode;
+    breakpointNodeId;
+    breakpointNode;
+    nodeInTextEditorId;
+    nodeInTextEditorClipPath = null;
+    temporaryCollectionItemNodeId;
+    remoteComponentsStore;
+    remoteSandboxStore;
+    remoteTreeStore;
+    moveToolState;
+    layoutMeasureQueue = new Kt({
+      shouldMeasureCallback: () => {
+        let e = this.measureLayout();
+        e && this.remoteTreeStore.onLayoutMeasure(e);
+      },
+      shouldMeasureCallbackDelayMs: 0,
+    });
+    async connectRpc(e) {
+      (await e.connect({ target: window.parent, url: et(document.referrer).origin }),
+        new ResizeObserver((t) => {
+          C(t.length === 1, "Invalid length");
+          let n = t[0];
+          (C(n, "Invalid entry"),
+            C(n.target === this.container, "Invalid target"),
+            this.breakpointNode && this.layoutMeasureQueue.remeasureNode(this.breakpointNode),
+            this.remoteSandboxStore.oneway.onHeightChange(n.contentRect.height));
+        }).observe(this.container));
+    }
+    measureLayout() {
+      if (!this.webPageNode || !this.breakpointNode) return;
+      let e = new Set();
+      e.add(this.breakpointNode.id);
+      let o = this.layoutMeasureQueue.process({
+        groundNodesInViewport: e,
+        offsetX: 0,
+        offsetY: 0,
+        scopeId: this.webPageNode.id,
+        tree: this.tree,
+        zoom: 1,
+      });
+      if (o.length !== 0) return o;
+    }
+    scrollTo(e) {
+      if ((window.scrollTo(e), this.breakpointNode)) {
+        for (let o of Se(this.breakpointNode)) this.layoutMeasureQueue.remeasureNode(o);
+        this.layoutMeasureQueue.remeasureNode(this.breakpointNode);
+      }
+    }
+    update(e) {
+      let o = e.dependenciesModule;
+      o !== void 0 && this.modulesRuntime.updateDependenciesModule(o);
+      let t = e.partialTreeUpdate;
+      t && (this.partialTreeReceiver.update(t), this.preloadTree());
+      let n = e.webPageNodeId;
+      n && (this.webPageNodeId = n);
+      let a = e.collectionItemNodeId;
+      a && (this.collectionItemNodeId = a);
+      let i = e.breakpointNodeId;
+      i && (this.breakpointNodeId = i);
+      let l = e.stylePresetBreakpointClassNames;
+      U(l) && (this.container.className = l);
+      let d = e.localModules;
+      d && this.modulesRuntime.updateLocalModules(d);
+      let s = e.assets;
+      (s && (this.assetMap.set(s), W.importCustomFonts(this.assetMap.items())),
+        this.nodeInTextEditorId !== e.nodeInTextEditorId &&
+          !E(e.nodeInTextEditorId) &&
+          ((this.nodeInTextEditorId = e.nodeInTextEditorId), (this.needsRender = !0)),
+        !E(e.nodeInTextEditorClipPath) &&
+          this.nodeInTextEditorClipPath !== e.nodeInTextEditorClipPath &&
+          ((this.nodeInTextEditorClipPath = e.nodeInTextEditorClipPath), (this.needsRender = !0)),
+        this.temporaryCollectionItemNodeId !== e.temporaryCollectionItemNodeId &&
+          !E(e.temporaryCollectionItemNodeId) &&
+          ((this.temporaryCollectionItemNodeId = e.temporaryCollectionItemNodeId),
+          (this.needsRender = !0)),
+        E(e.moveToolState) || ((this.moveToolState = e.moveToolState), (this.needsRender = !0)),
+        E(e.activeLocaleId) || ((this.activeLocaleId = e.activeLocaleId), (this.needsRender = !0)),
+        this.updateWebPageNode(),
+        this.updateCollectionItemNode(),
+        this.updateBreakpointNode(),
+        this.updatePresetsListNode(),
+        this.render());
+    }
+    preloadWebPage() {
+      if (this.webPageNode) {
+        for (let e of this.webPageNode.walk())
+          if (
+            (Y(e) && this.modulesRuntime.preloadModule(e.codeComponentIdentifier),
+            j(e) &&
+              e.layoutTemplateIdentifier &&
+              this.modulesRuntime.preloadModule(e.layoutTemplateIdentifier),
+            X(e) && this.modulesRuntime.preloadModule(e.dataIdentifier),
+            Ut(e))
+          ) {
+            let o = e.getFontsForLoading();
+            this.fontLoader.preloadFonts(...o);
+          }
+      }
+    }
+    preloadTree() {
+      let e = Qo(this.tree)?.loaded;
+      if (e)
+        for (let t of e.children) {
+          let n = Z(this.tree, t.instanceIdentifier);
+          for (let a of n) this.modulesRuntime.preloadModule(a);
+        }
+      let o = ye.get(this.tree);
+      if (o) {
+        for (let t of o.children)
+          if (Go(t)) {
+            let n = t.getFontsForCodeGeneration();
+            this.fontLoader.preloadFonts(...n);
+          }
+      }
+    }
+    updateWebPageNode() {
+      let e = this.tree.getNodeWithTrait(this.webPageNodeId, j)?.loaded;
+      this.webPageNode !== e &&
+        ((this.needsRender = !0), (this.webPageNode = e), this.preloadWebPage());
+    }
+    updateCollectionItemNode() {
+      let e = this.tree.getNodeWithTrait(this.collectionItemNodeId, lo) ?? void 0;
+      this.collectionItemNode !== e && ((this.needsRender = !0), (this.collectionItemNode = e));
+    }
+    updateBreakpointNode() {
+      let e = this.tree.get(this.breakpointNodeId) ?? void 0;
+      this.breakpointNode !== e && ((this.needsRender = !0), (this.breakpointNode = e));
+    }
+    updatePresetsListNode() {
+      let e = ye.get(this.tree) ?? void 0;
+      this.presetsListNode !== e && ((this.needsRender = !0), (this.presetsListNode = e));
+    }
+    async onRendered(e) {
+      (await this.loadingStateTracker.waitForSuspense(),
+        this.breakpointNode && e && this.remoteSandboxStore.onInitialLoadComplete(e),
+        this.remoteTreeStore.onSandboxRendered({
+          layoutMeasurements: this.measureLayout(),
+          repeaterUpdates: this.sandboxRepeaterData.export(),
+          visibilityUpdates: this.sandboxVisibility.export(),
+        }));
+    }
+    render() {
+      this.needsRender &&
+        ((0, O.startTransition)(() => {
+          this.reactRoot.render(
+            (0, y.jsx)(O.StrictMode, {
+              children: (0, y.jsxs)(Gr, {
+                webPageNodeId: this.webPageNodeId,
+                onRendered: this.onRendered.bind(this),
+                children: [
+                  (0, y.jsx)(ur, {
+                    tree: this.tree,
+                    children: (0, y.jsx)(Ro, {
+                      children: (0, y.jsx)(Ze, {
+                        isStatic: !0,
+                        children: (0, y.jsx)(qr, {
+                          tree: this.tree,
+                          activeLocaleId: this.activeLocaleId,
+                          children: (0, y.jsx)(go, {
+                            client: this.fetchClient,
+                            children: (0, y.jsx)(je, {
+                              parentSize: 1,
+                              children: (0, y.jsx)(_t, {
+                                nodeInTextEditorId: this.nodeInTextEditorId,
+                                clipPath: this.nodeInTextEditorClipPath,
+                                children: (0, y.jsx)(or, {
+                                  update: this.moveToolState,
+                                  children: (0, y.jsx)(ir, {
+                                    context: this,
+                                    webPageNode: this.webPageNode,
+                                    collectionItemNode: this.collectionItemNode,
+                                    breakpointNode: this.breakpointNode,
+                                  }),
+                                }),
+                              }),
+                            }),
+                          }),
+                        }),
+                      }),
+                    }),
+                  }),
+                  (0, y.jsx)(Pt, {
+                    componentLoader: this.componentLoader,
+                    presetsListNode: this.presetsListNode,
+                  }),
+                ],
+              }),
+            })
+          );
+        }),
+        (this.needsRender = !1));
+    }
+    updateExperiments(e) {
+      Xe.update(e);
+    }
+    updateProjectFeatures(e) {
+      st.update(e);
+    }
+    updateEmployeesOnlySettings(e) {
+      rt.update(e);
+    }
+  };
+function Gr({ children: r, webPageNodeId: e, onRendered: o }) {
+  return (
+    (0, O.useEffect)(() => {
+      o(e);
+    }),
+    (0, y.jsx)(y.Fragment, { children: r })
+  );
+}
+function qr({ tree: r, activeLocaleId: e, children: o }) {
+  let t = wo(r, "excludeDrafts"),
+    n = ko(r, e, "excludeDrafts"),
+    a = (0, O.useMemo)(() => ({ activeLocale: n, locales: t, setLocale: Be }), [n, t]),
+    i = r.root.adaptLayoutToTextDirection,
+    l = a.activeLocale?.textDirection ?? "ltr",
+    d = i ? l : "ltr";
+  return (
+    (0, O.useLayoutEffect)(() => {
+      i
+        ? document.documentElement.setAttribute("dir", l)
+        : document.documentElement.removeAttribute("dir");
+    }, [i, l]),
+    (0, y.jsx)(oe.Provider, {
+      value: a,
+      children: (0, y.jsx)(ho.Provider, { value: d, children: o }),
+    })
+  );
+}
+Object.assign(window, { Framer: To });
+Qe({ name: "canvas", security: {} });
+var Rr = document.querySelector("main");
+C(Rr, "Container element not found");
+var he = new Ce(Rr),
+  jr = dt(he.assetMap);
+W.importFramerFonts(Eo);
+$e({
+  isOnPageCanvas: !0,
+  assetResolver: jr,
+  queueMeasureRequest(...r) {
+    he.layoutMeasureQueue.add(...r);
+  },
+  enableFontStore: !0,
+  fetchGoogleFontsList: Rt,
+  fetchFontshareFontsList: vt,
+  fetchBuiltInFontsList: ht,
+  imagePlaceholderSvg:
+    '<svg width="64" height="64" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h64v64H0V0Z" fill="#222" fill-opacity=".8"/><path d="M64 12.4 12.4 64H11l53-53v1.4ZM64 33.7 33.7 64h-1.4L64 32.3v1.4ZM64 55l-9 9h-1.4L64 53.6v1.5ZM12.4 0 0 12.4V11L11 0h1.4ZM33.7 0 0 33.7v-1.4L32.3 0h1.4ZM55 0 0 55v-1.4L53.6 0h1.5Z" fill="#888" fill-opacity=".2"/></svg>',
+  useImageSource(r) {
+    if (!r.src) return "";
+    let e = te(r.src);
+    return e ? G(e.identifier) : G(r.src);
+  },
+  canRenderOptimizedCanvasImage: he.optimizedCanvasImageRenderer.canRenderCanvasImage,
+  renderOptimizedCanvasImage: he.optimizedCanvasImageRenderer.renderCanvasImage,
+});
+//# sourceMappingURL=canvas-sandbox-on-page.66AKP6TO.mjs.map
